@@ -1,0 +1,15 @@
+body {
+    min-height: 200vh;
+}
+
+.logo {
+    font-weight: 300;
+    padding-left: 10px;
+}
+
+.thin-text {
+    font-weight: 300;
+    padding: 40px;
+    background: rgba(96, 125, 139, .4);
+    border-radius: 10px;
+}
